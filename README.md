@@ -1,5 +1,4 @@
-If you don’t have time to read, you don’t have the time (or the tools) to write. Simple as that. — Stephen King in his memoir
-
+Houston, we have a problem.
 <!--
 **Jamlee/Jamlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
